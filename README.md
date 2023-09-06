@@ -8,7 +8,7 @@ A simple Snake Game implemented in Python using the Turtle graphics library.
 
 ## Table of Contents
 
-- [Demo](#demo)
+
 - [Features](#features)
 - [How to Play](#how-to-play)
 - [Installation](#installation)
@@ -16,11 +16,7 @@ A simple Snake Game implemented in Python using the Turtle graphics library.
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
 
-![Snake Game Demo](snake_game_demo.gif)
-
-[View Demo](link_to_live_demo) (if available)
 
 ## Features
 
