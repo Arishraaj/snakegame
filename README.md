@@ -10,15 +10,12 @@ A simple Snake Game implemented in Python using the Turtle graphics library.
 - [Features](#features)
 - [How to Play](#how-to-play)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Demo
 
-![Snake Game Demo](snake_game_demo.gif)
+![Snake Game Demo](snake_game.png)
 
-[View Demo](link_to_live_demo) (if available)
 
 ## Features
 
@@ -37,6 +34,8 @@ A simple Snake Game implemented in Python using the Turtle graphics library.
 
    ```bash
    python main.py
+
+## Installation
 
 git clone https://github.com/Arishraaj/snakegame.git
 cd snakegame
