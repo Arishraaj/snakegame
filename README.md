@@ -11,9 +11,6 @@ A simple Snake Game implemented in Python using the Turtle graphics library.
 
 - [Features](#features)
 - [How to Play](#how-to-play)
-- [Installation](#installation)
-
-
 
 
 ## Features
