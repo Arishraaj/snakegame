@@ -26,7 +26,4 @@ A simple Snake Game implemented in Python using the Turtle graphics library.
 
 1. Clone the repository to your local machine.
 2. Install Python (if not already installed).
-3. Run the game using the following command:
-
-   ```bash
-   python snake_game.py
+3. Run the game 
