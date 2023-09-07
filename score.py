@@ -13,11 +13,11 @@ class Score(Turtle):
         self.update()
 
     def update(self):
+        self.clear()
         self.write(f'Score : {self.score }',align=ALIGNMENT,font=FONT)
 
     def increase(self):
         self.score+=1
-        self.clear()
         self.update()
 
     def end_game(self):
